@@ -100,3 +100,7 @@ def fix__encode_special_characters_in_query_builder_23():
 def test__verify_query_string_parameters_are_ordered_24():
     # test: verify query string parameters are ordered
     pass
+
+def refactor__inline_temporary_variables_in_url_parser_25():
+    # refactor: inline temporary variables in url parser
+    pass
