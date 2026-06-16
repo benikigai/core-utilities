@@ -92,3 +92,7 @@ def docs__write_api_documentation_for_json_helpers_21():
 def feat__add_http_query_string_builder_22():
     # feat: add http query string builder
     pass
+
+def fix__encode_special_characters_in_query_builder_23():
+    # fix: encode special characters in query builder
+    pass
