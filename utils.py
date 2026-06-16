@@ -152,3 +152,7 @@ def feat__add_environment_variable_loader_36():
 def fix__cast_boolean_environment_strings_correctly_37():
     # fix: cast boolean environment strings correctly
     pass
+
+def docs__add_environment_config_guide_38():
+    # docs: add environment config guide
+    pass
