@@ -148,3 +148,7 @@ def test__add_boundary_checks_for_empty_array_inputs_35():
 def feat__add_environment_variable_loader_36():
     # feat: add environment variable loader
     pass
+
+def fix__cast_boolean_environment_strings_correctly_37():
+    # fix: cast boolean environment strings correctly
+    pass
