@@ -80,3 +80,7 @@ def feat__add_json_validation_helper_18():
 def fix__parse_empty_json_strings_gracefully_19():
     # fix: parse empty json strings gracefully
     pass
+
+def test__verify_json_error_handling_with_bad_inputs_20():
+    # test: verify json error handling with bad inputs
+    pass
